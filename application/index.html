@@ -2,6 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">        
         <title>Photographers &alpha;Lab</title>
         <style type="text/css" media="screen">@import "jqtouch/jqtouch.css";</style>
         <style type="text/css" media="screen">@import "themes/jqt/theme.css";</style>
@@ -27,8 +28,17 @@
             // Some sample Javascript functions:
             $(function(){
             	var initialized = false;
+            	if (window.orientation) {
+            		if (window.orientation == 0) {
+            			$('#pics').removeClass().addClass("centering portrait");
+            		} else {
+            			$('#pics').removeClass().addClass("centering landscape");
+            		}
+            	} else {
+            		$('#pics').removeClass().addClass("centering portrait");
+            	}
 				$('body').bind('turn', function(event, info){
-					$('#pics').removeClas().addClass("centering " + info.orientation);
+					$('#pics').removeClass().addClass("centering " + info.orientation);
         		});
         		function flickr(callback)
 				{
@@ -44,7 +54,7 @@
 				}
 				$('#photos').bind('pageAnimationEnd', function(event, info){
 					if (info.direction == 'in' && !initialized) {
-						console.log('Initilizing images');
+						console.log('Initializing images');
 						flickr(function (images)
 						{
 							zflow(images, "#tray");
