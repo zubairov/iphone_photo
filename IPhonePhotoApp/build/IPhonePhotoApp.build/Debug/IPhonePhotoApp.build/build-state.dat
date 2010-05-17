@@ -1,0 +1,103 @@
+TIPhonePhotoApp
+v7
+r1
+
+N/Users/zubairov/Documents/PhoneGapLib/VERSION
+c000000004BF1A93D0000000000000005
+t1274128701
+s5
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Default.png
+c000000004BF1AA180000000000000BAE
+t1274128920
+s2990
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/PhoneGap.plist
+c000000004BF1AA18000000000000027E
+t1274128920
+s638
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Info.plist
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/PhoneGap.plist
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/VERSION
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/www
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/icon.png
+c000000004BF1AA180000000000000C36
+t1274128920
+s3126
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www
+c000000004BF1AA180000000000000066
+t1274128920
+s102
+
+NIPhonePhotoApp-Info.plist
+c000000004BF1AA1800000000000005C2
+t1274128920
+s1474
+
+CCopyPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Resources/PhoneGap.plist PhoneGap.plist
+r0
+
+CCpResource build/Debug/IPhonePhotoApp.app/Contents/Resources/Default.png Default.png
+r0
+
+CCpResource build/Debug/IPhonePhotoApp.app/Contents/Resources/VERSION /Users/zubairov/Documents/PhoneGapLib/VERSION
+r0
+
+CCpResource build/Debug/IPhonePhotoApp.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/IPhonePhotoApp.app/Contents/Resources/www www
+r0
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+r0
+
+CPhaseScriptExecution "Touch www folder" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+r0
+
+CProcessInfoPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app/Contents/Info.plist IPhonePhotoApp-Info.plist
+r0
+
+CTouch /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug/IPhonePhotoApp.app
+r0
+

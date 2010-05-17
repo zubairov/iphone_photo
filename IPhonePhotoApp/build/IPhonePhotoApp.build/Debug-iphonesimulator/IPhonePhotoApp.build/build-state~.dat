@@ -1,0 +1,493 @@
+TIPhonePhotoApp
+v7
+r0
+t295821746.179520
+cCheck dependencies
+cProcessInfoPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Info.plist IPhonePhotoApp-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+cPhaseScriptExecution "Touch www folder" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+cCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/www www
+cCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/VERSION /Users/zubairov/Documents/PhoneGapLib/VERSION
+cCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/icon.png icon.png
+cCopyPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PhoneGap.plist PhoneGap.plist
+cProcessPCH /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch.gch IPhonePhotoApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/main.o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoAppAppDelegate.o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp normal i386
+cGenerateDSYMFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp
+cTouch /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BF1823B0000000000000110
+t1274118715
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004B9F1E0B0000000000012140
+t1268719115
+s74048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004B9F1E0800000000000000EB
+t1268719112
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004B9F2554000000000003E8A0
+t1268720980
+s256160
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004B9F25490000000000000A8C
+t1268720969
+s2700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004B9F32170000000000128990
+t1268724247
+s1214864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004B9F320E00000000000001D4
+t1268724238
+s468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004B9F1D810000000000193D80
+t1268718977
+s1654144
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004B9F1D6D000000000000E37C
+t1268718957
+s58236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004B9F1D6800000000001255B0
+t1268718952
+s1201584
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BA03AB3000000000026F020
+t1268791987
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BA18C610000000000060DB0
+t1268878433
+s396720
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BA18C5B00000000000001AF
+t1268878427
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B9F1DE40000000000289C20
+t1268719076
+s2661408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B9F1DD60000000000001355
+t1268719062
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004B9F33530000000000117CE0
+t1268724563
+s1146080
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004B9F2556000000000005AF90
+t1268720982
+s372624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004B9F27B9000000000011BF20
+t1268721593
+s1163040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004B9F1D0B0000000000055570
+t1268718859
+s349552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BA6CAEC000000000000098F
+t1269222124
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004BA6CAED0000000000001971
+t1269222125
+s6513
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004BA6CAED0000000000000BF1
+t1269222125
+s3057
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004BA6CAEC0000000000000704
+t1269222124
+s1796
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BA6CB31000000000214E400
+t1269222193
+s34923520
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004BF1A93D0000000000000A53
+t1274128701
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004BF1A93D0000000000000170
+t1274128701
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004BF1A93D00000000000008F9
+t1274128701
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/Location.h
+c000000004BF1A93D0000000000000530
+t1274128701
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004BF1A93D00000000000002ED
+t1274128701
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004BF1A93D00000000000006D8
+t1274128701
+s1752
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004BF1A93D0000000000000293
+t1274128701
+s659
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/Sound.h
+c000000004BF1A93D000000000000060C
+t1274128701
+s1548
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004BF1A93D000000000000066A
+t1274128701
+s1642
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/zubairov/Documents/PhoneGapLib/VERSION
+c000000004BF1A93D0000000000000005
+t1274128701
+s5
+
+N/Users/zubairov/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004BF1AA2F00000000000C7B80
+t1274128943
+s818048
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.h
+c000000004BF1AA180000000000000116
+t1274128920
+s278
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m
+c000000004BF1AA18000000000000080B
+t1274128920
+s2059
+i"IPhonePhotoAppAppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Default.png
+c000000004BF1AA180000000000000BAE
+t1274128920
+s2990
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp_Prefix.pch
+c000000004BF1AA1800000000000000C5
+t1274128920
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/PhoneGap.plist
+c000000004BF1AA18000000000000027E
+t1274128920
+s638
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app
+t1274128946
+s340
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM
+t1274128946
+s102
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Default.png
+t1274128943
+s2990
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp
+t1274128946
+s229836
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Info.plist
+t1274128943
+s953
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PhoneGap.plist
+t1274128944
+s255
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PkgInfo
+t1274128943
+s8
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/VERSION
+t1274128943
+s5
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/icon.png
+t1274128943
+s3126
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/www
+t1274128943
+s136
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoApp.LinkFileList
+c000000004BF1AA2F0000000000000149
+t1274128943
+s329
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoAppAppDelegate.o
+t1274128945
+s43440
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/main.o
+t1274128945
+s6168
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+c000000004BF1AA2F0000000000000027
+t1274128943
+s39
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004BF1AA2F00000000000000BE
+t1274128943
+s190
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/icon.png
+c000000004BF1AA180000000000000C36
+t1274128920
+s3126
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m
+c000000004BF1AA180000000000000186
+t1274128920
+s390
+i<UIKit/UIKit.h>
+
+N/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www
+c000000004BF1AA2F0000000000000088
+t1274128943
+s136
+
+N/var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch.gch
+t1274128944
+s13805456
+
+NIPhonePhotoApp-Info.plist
+c000000004BF1AA1800000000000005C2
+t1274128920
+s1474
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies295821743#295821743#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoAppAppDelegate.o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295821744.954940
+e295821745.055758
+r1
+xCompileC
+xbuild/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoAppAppDelegate.o
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m295821744#295821745#0(0"0(0#0#92"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m4300911832#2298"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-generated-files.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-own-target-headers.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-all-target-headers.hmap -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-project-headers.hmap -F/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator -iquote/Users/zubairov/Documents/PhoneGapLib/Classes -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/include -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources/i386 -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources -include /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Classes/IPhonePhotoAppAppDelegate.m -o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoAppAppDelegate.o0#
+
+CCompileC build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/main.o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s295821744.952545
+e295821745.019318
+r1
+xCompileC
+xbuild/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/main.o
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m295821744#295821745#0(0"0(0#0#63"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m4300911832#2248"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-generated-files.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-own-target-headers.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-all-target-headers.hmap -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-project-headers.hmap -F/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator -iquote/Users/zubairov/Documents/PhoneGapLib/Classes -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/include -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources/i386 -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources -include /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/main.m -o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PhoneGap.plist PhoneGap.plist
+s295821743.724362
+e295821744.163739
+r1
+xCopyPlistFile
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PhoneGap.plist
+xPhoneGap.plist
+lSLF07#2@19"Copy PhoneGap.plist295821743#295821744#0(0"0(0#0#71"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/PhoneGap.plist4300911832#432"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 PhoneGap.plist --outdir /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
+CCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/Default.png Default.png
+s295821743.723055
+e295821743.978012
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/IPhonePhotoApp.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png295821743#295821743#0(0"0(0#0#68"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Default.png4300911832#516"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/Default.png /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
+CCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/VERSION /Users/zubairov/Documents/PhoneGapLib/VERSION
+s295821743.722431
+e295821743.979104
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/IPhonePhotoApp.app/VERSION
+x/Users/zubairov/Documents/PhoneGapLib/VERSION
+lSLF07#2@50"Copy /Users/zubairov/Documents/PhoneGapLib/VERSION295821743#295821743#0(0"0(0#0#45"/Users/zubairov/Documents/PhoneGapLib/VERSION4300911832#493"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zubairov/Documents/PhoneGapLib/VERSION /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
+CCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/icon.png icon.png
+s295821743.723692
+e295821743.978198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/IPhonePhotoApp.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png295821743#295821743#0(0"0(0#0#65"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/icon.png4300911832#513"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/icon.png /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
+CCpResource build/Debug-iphonesimulator/IPhonePhotoApp.app/www www
+s295821743.721701
+e295821743.998985
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/IPhonePhotoApp.app/www
+xwww
+lSLF07#2@8"Copy www295821743#295821743#0(0"0(0#0#60"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www4300911832#508"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
+CGenerateDSYMFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp
+s295821746.076855
+e295821746.176282
+r1
+xGenerateDSYMFile
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp295821746#295821746#0(0"0(0#0#118"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp4300911832#458"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp -o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app.dSYM0#
+
+CLd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp normal i386
+s295821745.055860
+e295821746.076739
+r1
+xLd
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp
+xnormal
+xi386
+lSLF07#2@123"Link /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp295821745#295821746#0(0"0(0#0#0"4300911832#1334"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator -F/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator -filelist /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoApp.LinkFileList -mmacosx-version-min=10.5 -all_load -Obj-C /Users/zubairov/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/IPhonePhotoApp0#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+s295821743.644472
+e295821743.695208
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/zubairov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'295821743#295821743#0(174"make: Nothing to be done for `all'.cp /Users/zubairov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www/phonegap.js2(13@36"make: Nothing to be done for `all'.295821743#0#36#0(1@0"0(13@138"cp /Users/zubairov/Documents/PhoneGapLib/javascripts/phonegap.js /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/www/phonegap.js295821743#36#138#0(1@0"0(0#0#0"4300911832#18384"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER zubairov    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv BUILD_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH IPhonePhotoApp.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/IPhonePhotoApp.dst    setenv DWARF_DSYM_FILE_NAME IPhonePhotoApp.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH IPhonePhotoApp.app/Executables    setenv EXECUTABLE_FOLDER_PATH IPhonePhotoApp.app    setenv EXECUTABLE_NAME IPhonePhotoApp    setenv EXECUTABLE_PATH IPhonePhotoApp.app/IPhonePhotoApp    setenv FILE_LIST /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH IPhonePhotoApp.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME IPhonePhotoApp.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER IPhonePhotoApp_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE IPhonePhotoApp-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH IPhonePhotoApp.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/IPhonePhotoApp.dst/Users/zubairov/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER zubairov    setenv INSTALL_PATH /Users/zubairov/Applications    setenv INSTALL_ROOT /tmp/IPhonePhotoApp.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH IPhonePhotoApp.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoApp.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal    setenv OBJROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH IPhonePhotoApp.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/zubairov/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/PkgInfo    setenv PKGINFO_PATH IPhonePhotoApp.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH IPhonePhotoApp.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH IPhonePhotoApp.app/PrivateHeaders    setenv PRODUCT_NAME IPhonePhotoApp    setenv PRODUCT_SETTINGS_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT IPhonePhotoApp    setenv PROJECT_DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/DerivedSources    setenv PROJECT_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PROJECT_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp.xcodeproj    setenv PROJECT_NAME IPhonePhotoApp    setenv PROJECT_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build    setenv PUBLIC_HEADERS_FOLDER_PATH IPhonePhotoApp.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH IPhonePhotoApp.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_NAME iphonesimulator3.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH IPhonePhotoApp.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH IPhonePhotoApp.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv SRCROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/SymbolRepositories    setenv SYMROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME IPhonePhotoApp    setenv TARGET_BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv TARGET_NAME IPhonePhotoApp    setenv TARGET_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH IPhonePhotoApp.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER zubairov    setenv USER_APPS_DIR /Users/zubairov/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/zubairov/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/zubairov/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH IPhonePhotoApp.app/version.plist    setenv VERSION_INFO_BUILDER zubairov    setenv VERSION_INFO_FILE IPhonePhotoApp_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:IPhonePhotoApp  PROJECT:IPhonePhotoApp-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME IPhonePhotoApp.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-30E9A9A110B758320022D3BA.sh0#
+
+CPhaseScriptExecution "Touch www folder" /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+s295821743.695515
+e295821743.721191
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'295821743#295821743#0(0"0(0#0#0"4300911832#18384"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER zubairov    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv BUILD_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH IPhonePhotoApp.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/IPhonePhotoApp.dst    setenv DWARF_DSYM_FILE_NAME IPhonePhotoApp.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH IPhonePhotoApp.app/Executables    setenv EXECUTABLE_FOLDER_PATH IPhonePhotoApp.app    setenv EXECUTABLE_NAME IPhonePhotoApp    setenv EXECUTABLE_PATH IPhonePhotoApp.app/IPhonePhotoApp    setenv FILE_LIST /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH IPhonePhotoApp.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME IPhonePhotoApp.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER IPhonePhotoApp_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE IPhonePhotoApp-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH IPhonePhotoApp.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/IPhonePhotoApp.dst/Users/zubairov/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER zubairov    setenv INSTALL_PATH /Users/zubairov/Applications    setenv INSTALL_ROOT /tmp/IPhonePhotoApp.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH IPhonePhotoApp.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal/i386/IPhonePhotoApp.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Objects-normal    setenv OBJROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH IPhonePhotoApp.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/zubairov/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/PkgInfo    setenv PKGINFO_PATH IPhonePhotoApp.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH IPhonePhotoApp.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH IPhonePhotoApp.app/PrivateHeaders    setenv PRODUCT_NAME IPhonePhotoApp    setenv PRODUCT_SETTINGS_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT IPhonePhotoApp    setenv PROJECT_DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/DerivedSources    setenv PROJECT_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PROJECT_FILE_PATH /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp.xcodeproj    setenv PROJECT_NAME IPhonePhotoApp    setenv PROJECT_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build    setenv PUBLIC_HEADERS_FOLDER_PATH IPhonePhotoApp.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH IPhonePhotoApp.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_NAME iphonesimulator3.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH IPhonePhotoApp.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH IPhonePhotoApp.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv SRCROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/SymbolRepositories    setenv SYMROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME IPhonePhotoApp    setenv TARGET_BUILD_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator    setenv TARGET_NAME IPhonePhotoApp    setenv TARGET_TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_FILES_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_FILE_DIR /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build    setenv TEMP_ROOT /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH IPhonePhotoApp.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER zubairov    setenv USER_APPS_DIR /Users/zubairov/Applications    setenv USER_HEADER_SEARCH_PATHS /Users/zubairov/Documents/PhoneGapLib/Classes    setenv USER_LIBRARY_DIR /Users/zubairov/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH IPhonePhotoApp.app/version.plist    setenv VERSION_INFO_BUILDER zubairov    setenv VERSION_INFO_FILE IPhonePhotoApp_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:IPhonePhotoApp  PROJECT:IPhonePhotoApp-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME IPhonePhotoApp.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0322    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/Script-304B58A110DAC018002A0835.sh0#
+
+CProcessInfoPlistFile /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Info.plist IPhonePhotoApp-Info.plist
+s295821743.632625
+e295821743.643771
+r1
+xProcessInfoPlistFile
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Info.plist
+xIPhonePhotoApp-Info.plist
+lSLF07#2@33"Process IPhonePhotoApp-Info.plist295821743#295821743#0(0"0(0#0#82"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp-Info.plist4300911832#554"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility IPhonePhotoApp-Info.plist -genpkginfo /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app/Info.plist0#
+
+CProcessPCH /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch.gch IPhonePhotoApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s295821744.163888
+e295821744.952193
+r1
+xProcessPCH
+x/var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch.gch
+xIPhonePhotoApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile IPhonePhotoApp_Prefix.pch295821744#295821744#0(0"0(0#0#82"/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp_Prefix.pch4300911832#2115"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-generated-files.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-own-target-headers.hmap -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-all-target-headers.hmap -iquote /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/IPhonePhotoApp-project-headers.hmap -F/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator -iquote/Users/zubairov/Documents/PhoneGapLib/Classes -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/include -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources/i386 -I/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/IPhonePhotoApp.build/Debug-iphonesimulator/IPhonePhotoApp.build/DerivedSources -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/IPhonePhotoApp_Prefix.pch -o /var/folders/7Q/7Q7wXbkCHBWBpe-qhhoh6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/IPhonePhotoApp_Prefix-adkuzerdgdspsthaqbbkziarlskh/IPhonePhotoApp_Prefix.pch.gch0#
+
+CTouch /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app
+s295821746.176382
+e295821746.179473
+r1
+xTouch
+x/Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app
+lSLF07#2@109"Touch /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app295821746#295821746#0(0"0(0#0#0"4300911832#321"    cd /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/zubairov/Repositories/iphone_photo/IPhonePhotoApp/build/Debug-iphonesimulator/IPhonePhotoApp.app0#
+
